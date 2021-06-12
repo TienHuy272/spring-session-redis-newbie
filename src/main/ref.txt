@@ -1,0 +1,3 @@
+Redis in spring boot will store data in redis server instead of Web container (like tomcat..)
+It will be independent when stop web server.
+check keys * in redis cli
